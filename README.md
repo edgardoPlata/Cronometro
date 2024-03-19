@@ -2,7 +2,7 @@
 
 ## Authors
 
-- [@edgardoPlata](https://github.com/edgardoPlata)
+- [@edgardoPlata](https://edgardoplata.github.io/Cronometro/)
 
 ## Demo
 
